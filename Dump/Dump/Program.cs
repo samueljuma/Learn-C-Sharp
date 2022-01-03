@@ -10,6 +10,12 @@ namespace Dump {
             double avarage = 20.02;
 
             Console.WriteLine("\nisGood: "+isGood + "\nname: "+name + "\nnumber: " + number);
+
+            // Getting User Input
+            Console.Write("Enter Your name: ");
+            string myName = Console.ReadLine();
+            Console.WriteLine("Hello " + myName);
+
         }
     }
 }
