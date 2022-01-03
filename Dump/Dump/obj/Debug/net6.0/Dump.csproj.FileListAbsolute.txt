@@ -1,0 +1,15 @@
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\bin\Debug\net6.0\Dump.exe
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\bin\Debug\net6.0\Dump.deps.json
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\bin\Debug\net6.0\Dump.runtimeconfig.json
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\bin\Debug\net6.0\Dump.dll
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\bin\Debug\net6.0\ref\Dump.dll
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\bin\Debug\net6.0\Dump.pdb
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\Dump.csproj.AssemblyReference.cache
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\Dump.GeneratedMSBuildEditorConfig.editorconfig
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\Dump.AssemblyInfoInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\Dump.AssemblyInfo.cs
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\Dump.csproj.CoreCompileInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\Dump.dll
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\ref\Dump.dll
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\Dump.pdb
+D:\samueljuma @github\Learn-C-Sharp\Dump\Dump\obj\Debug\net6.0\Dump.genruntimeconfig.cache
