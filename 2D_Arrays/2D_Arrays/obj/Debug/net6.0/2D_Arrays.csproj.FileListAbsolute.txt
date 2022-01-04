@@ -1,0 +1,15 @@
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\bin\Debug\net6.0\2D_Arrays.exe
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\bin\Debug\net6.0\2D_Arrays.deps.json
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\bin\Debug\net6.0\2D_Arrays.runtimeconfig.json
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\bin\Debug\net6.0\2D_Arrays.dll
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\bin\Debug\net6.0\ref\2D_Arrays.dll
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\bin\Debug\net6.0\2D_Arrays.pdb
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\2D_Arrays.csproj.AssemblyReference.cache
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\2D_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\2D_Arrays.AssemblyInfoInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\2D_Arrays.AssemblyInfo.cs
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\2D_Arrays.csproj.CoreCompileInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\2D_Arrays.dll
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\ref\2D_Arrays.dll
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\2D_Arrays.pdb
+D:\samueljuma @github\Learn-C-Sharp\2D_Arrays\2D_Arrays\obj\Debug\net6.0\2D_Arrays.genruntimeconfig.cache
