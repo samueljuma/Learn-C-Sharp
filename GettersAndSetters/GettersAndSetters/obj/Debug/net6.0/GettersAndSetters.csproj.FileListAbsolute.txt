@@ -1,0 +1,15 @@
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\bin\Debug\net6.0\GettersAndSetters.exe
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\bin\Debug\net6.0\GettersAndSetters.deps.json
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\bin\Debug\net6.0\GettersAndSetters.runtimeconfig.json
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\bin\Debug\net6.0\GettersAndSetters.dll
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\bin\Debug\net6.0\ref\GettersAndSetters.dll
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\bin\Debug\net6.0\GettersAndSetters.pdb
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\GettersAndSetters.csproj.AssemblyReference.cache
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\GettersAndSetters.GeneratedMSBuildEditorConfig.editorconfig
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\GettersAndSetters.AssemblyInfoInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\GettersAndSetters.AssemblyInfo.cs
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\GettersAndSetters.csproj.CoreCompileInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\GettersAndSetters.dll
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\ref\GettersAndSetters.dll
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\GettersAndSetters.pdb
+D:\samueljuma @github\Learn-C-Sharp\GettersAndSetters\GettersAndSetters\obj\Debug\net6.0\GettersAndSetters.genruntimeconfig.cache
