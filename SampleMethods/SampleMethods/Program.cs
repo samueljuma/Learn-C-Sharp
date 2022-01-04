@@ -7,6 +7,10 @@ namespace SampleMethods {
             SayHi();
             Console.WriteLine("*** Executing SayHi(args)****\n");
             SayHi("Samuel");
+
+            // get a maximum value
+            Console.WriteLine(GetMax(4,5));
+            Console.WriteLine(GetMin(4,5));
         }
         //Method with No argument 
         static void SayHi() {
@@ -18,6 +22,24 @@ namespace SampleMethods {
         //Method with Argument
         static void SayHi(string name) { 
             Console.WriteLine("Hello " + name);
+        }
+
+        //Methods with Return values 
+        static int GetMax(int num1, int num2) {
+            // ternary operator
+            int result;
+            if (num1 > num2)
+            {
+                result = num1;
+            }
+            else { 
+                result = num2;
+            }
+            return result;
+        }
+        static int GetMin(int num1, int num2) { 
+            // ternary operator // equivalent to if statements
+            return (num1<num2) ? num1 : num2;
         }
     }
 }

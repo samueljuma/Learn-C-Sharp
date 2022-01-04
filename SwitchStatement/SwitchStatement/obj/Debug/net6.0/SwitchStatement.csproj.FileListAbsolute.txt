@@ -1,0 +1,15 @@
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.exe
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.deps.json
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.runtimeconfig.json
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.dll
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\bin\Debug\net6.0\ref\SwitchStatement.dll
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\bin\Debug\net6.0\SwitchStatement.pdb
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.AssemblyReference.cache
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfoInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.AssemblyInfo.cs
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.dll
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\ref\SwitchStatement.dll
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.pdb
+D:\samueljuma @github\Learn-C-Sharp\SwitchStatement\SwitchStatement\obj\Debug\net6.0\SwitchStatement.genruntimeconfig.cache
