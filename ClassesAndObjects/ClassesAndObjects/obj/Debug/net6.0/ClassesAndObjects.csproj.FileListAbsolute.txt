@@ -1,0 +1,15 @@
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.exe
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.deps.json
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.runtimeconfig.json
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.dll
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ref\ClassesAndObjects.dll
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\bin\Debug\net6.0\ClassesAndObjects.pdb
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.csproj.AssemblyReference.cache
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.AssemblyInfoInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.AssemblyInfo.cs
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.csproj.CoreCompileInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.dll
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ref\ClassesAndObjects.dll
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.pdb
+D:\samueljuma @github\Learn-C-Sharp\ClassesAndObjects\ClassesAndObjects\obj\Debug\net6.0\ClassesAndObjects.genruntimeconfig.cache
