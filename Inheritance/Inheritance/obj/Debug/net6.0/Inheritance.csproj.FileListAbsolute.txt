@@ -1,0 +1,15 @@
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.exe
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.deps.json
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.runtimeconfig.json
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.dll
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\bin\Debug\net6.0\ref\Inheritance.dll
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\bin\Debug\net6.0\Inheritance.pdb
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.AssemblyReference.cache
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfoInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.AssemblyInfo.cs
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.dll
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\ref\Inheritance.dll
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.pdb
+D:\samueljuma @github\Learn-C-Sharp\Inheritance\Inheritance\obj\Debug\net6.0\Inheritance.genruntimeconfig.cache
