@@ -11,7 +11,17 @@ namespace ClassesAndObjects
         public string title;
         public string author;
         public string ISBN_Number;
-        public string description;
+        public int pages;
+
+        /*
+         * Constructors 
+         */
+        public Book(string title, string author, string ISBN_number, int pages) { 
+            this.title = title;
+            this.author = author;
+            this.ISBN_Number = ISBN_number;
+            this.pages = pages;
+        }
         
     }
 }
