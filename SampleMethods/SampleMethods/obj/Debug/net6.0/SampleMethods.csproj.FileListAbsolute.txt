@@ -1,0 +1,15 @@
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\bin\Debug\net6.0\SampleMethods.exe
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\bin\Debug\net6.0\SampleMethods.deps.json
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\bin\Debug\net6.0\SampleMethods.runtimeconfig.json
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\bin\Debug\net6.0\SampleMethods.dll
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\bin\Debug\net6.0\ref\SampleMethods.dll
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\bin\Debug\net6.0\SampleMethods.pdb
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\SampleMethods.csproj.AssemblyReference.cache
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\SampleMethods.GeneratedMSBuildEditorConfig.editorconfig
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\SampleMethods.AssemblyInfoInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\SampleMethods.AssemblyInfo.cs
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\SampleMethods.csproj.CoreCompileInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\SampleMethods.dll
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\ref\SampleMethods.dll
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\SampleMethods.pdb
+D:\samueljuma @github\Learn-C-Sharp\SampleMethods\SampleMethods\obj\Debug\net6.0\SampleMethods.genruntimeconfig.cache
