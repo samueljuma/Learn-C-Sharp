@@ -1,0 +1,15 @@
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\bin\Debug\net6.0\ExecptionHandling.exe
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\bin\Debug\net6.0\ExecptionHandling.deps.json
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\bin\Debug\net6.0\ExecptionHandling.runtimeconfig.json
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\bin\Debug\net6.0\ExecptionHandling.dll
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\bin\Debug\net6.0\ref\ExecptionHandling.dll
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\bin\Debug\net6.0\ExecptionHandling.pdb
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ExecptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ExecptionHandling.AssemblyInfoInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ExecptionHandling.AssemblyInfo.cs
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ExecptionHandling.csproj.CoreCompileInputs.cache
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ExecptionHandling.dll
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ref\ExecptionHandling.dll
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ExecptionHandling.pdb
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ExecptionHandling.genruntimeconfig.cache
+D:\samueljuma @github\Learn-C-Sharp\ExecptionHandling\ExecptionHandling\obj\Debug\net6.0\ExecptionHandling.csproj.AssemblyReference.cache
